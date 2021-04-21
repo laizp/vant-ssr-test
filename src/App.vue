@@ -14,8 +14,6 @@
 <script>
 
 import { Tabs, Tab } from 'vant';
-import 'vant/es/tabs/style';
-import 'vant/es/tab/style';
 
 export default {
   name: 'Home',
